@@ -1,0 +1,1 @@
+This is my attempt at recreating Google's homepage layout, I'm not trying to mimic any of it's functionality, just the layout. I will be using HTML, CSS, and Chrome developer tools to do this. 
