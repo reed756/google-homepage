@@ -1,0 +1,66 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+div {
+    display: block;
+    text-align: center;
+    overflow: hidden;
+}
+#logo {
+    display: inline-block;
+    height: 120px;
+    line-height: 196px;
+    position: relative;
+    width: 490px;
+    text-align: center;
+    max-width: 100%;
+    margin-top: 47px;
+}
+#search-form {
+    position: relative;
+    display: flex;
+    height: 44px;
+    margin: 0 auto;
+    width: 582px;
+    background: #ffffff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    padding-left: 27px;
+}
+#search-field {
+    border: none;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, .87);
+    outline: none;
+    display: flex;
+    flex: 100%;
+}
+
+#buttons {
+    margin: 11px 4px;
+    height: 36px;
+    min-width: 54px;
+    padding: 0 16px;
+    line-height: 27px;
+}
+li {
+    list-style-type: none;
+    margin-right: 20px;
+    padding: 8px;
+    display: inline;
+    float: left;
+}
+.main-content {
+    width: 100%;
+    height: 100%;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin: 0 auto;
+}
